@@ -1,4 +1,5 @@
-﻿namespace bitmapGen
+﻿using System.Reflection.Metadata;
+namespace bitmapGen
 {
   class Program
   {
